@@ -1,8 +1,6 @@
 # Analyse des ventes d’une PME 
 
-Ce projet a été réalisé dans le cadre de la **préparation à la journée de sélection du parcours Data Engineer chez Simplon**.
-
-Il consiste à concevoir et déployer une **architecture data simple**, permettant d’importer, stocker et analyser des données de ventes fournies par un client fictif (PME de services numériques).
+Ce projet consiste à concevoir et déployer une **architecture data simple**, permettant d’importer, stocker et analyser des données de ventes fournies par un client fictif (PME de services numériques).
 
 Les données concernent les ventes réalisées sur une période de 30 jours, ainsi que des informations sur les produits et les magasins répartis dans plusieurs villes de France.
 
